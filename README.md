@@ -66,6 +66,14 @@ Before sending a PR, please see the [Contributing Guidelines](CONTRIBUTING.md)
 * [@adrianholovaty](https://twitter.com/adrianholovaty)
 
 
+#### Elixir
+* [@chris_mccord](https://twitter.com/chris_mccord)
+* [@josevalim](https://twitter.com/josevalim)
+* [@michaellnorth](https://twitter.com/michaellnorth)
+* [@pragdave](https://twitter.com/pragdave)
+* [@wsmoak](https://twitter.com/wsmoak)
+
+
 #### Go
 * [@spf13](https://twitter.com/spf13)
 
